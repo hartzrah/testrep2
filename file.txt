@@ -1,5 +1,3 @@
 Hello Git world!
-How are you?
-Fine
-very fine
+I dont care how you are!
 (That is a lie.)
