@@ -2,4 +2,4 @@ Hello Git world!
 How are you?
 Fine
 very fine
-(That was a lie.)
+(That is a lie.)
